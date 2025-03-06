@@ -1,7 +1,7 @@
 # Blender 4.2.2 LTS
 # www.blender.org
 mtllib table1.mtl
-o Cylinder
+o Glasses
 v -0.038939 0.987446 0.680711
 v -0.151775 0.987446 0.789169
 v -0.037444 0.998077 0.682206
