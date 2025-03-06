@@ -1,7 +1,7 @@
 # Blender 4.2.2 LTS
 # www.blender.org
 mtllib table2.mtl
-o Chair_1_Куб.002
+o table2
 v -0.999500 1.799271 1.019695
 v -0.999500 1.605857 1.019695
 v -0.999500 1.799271 -0.980305
